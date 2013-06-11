@@ -1,6 +1,9 @@
 ---
 layout: frontpage
 title: Welcome
+image1: "graduation"
+image2: "group"
+image3: "thesis-defense"
 ---
 
 #Hello World
