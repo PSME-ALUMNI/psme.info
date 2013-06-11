@@ -7,11 +7,4 @@ markdown: rdiscount
 permalink: pretty
 pygments: true
 
-safe:        false
-watch:       false    # deprecated
-server:      false    # deprecated
-host:        0.0.0.0
-port:        4000
-baseurl:     /
-url:         http://localhost:4000
-lsi:         false
+baseurl:     /psme.info
