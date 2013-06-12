@@ -9,11 +9,11 @@ menu:
 - { title: "How to Apply", link: "how-to-apply"}
 - { title: "Tuition Fees", link: "tuition-fees"}
 - { title: "Deadlines", link: "deadlines"}
-- { title: "Selection Procedure", link: "selection-procedure"}
+- { title: "Selection", link: "selection"}
 ---
 
-<a id="how-to-apply"></a>
-#How To Apply
+
+#How To Apply<a class="anchor" id="how-to-apply"></a>
 To apply for the Panthéon-Sorbonne Master's degree in Economics, students must provide the following:
 
 - A **detailed CV in English**;
@@ -42,8 +42,9 @@ France
 
 *NOTE* letters of recommendation and transcripts need not be sent by electronic format.  Please leave letters sealed and include them only in the application you mail to us.
 
-<a id="tuition-fees"></a>
-#Tuition Fees
+
+
+#Tuition Fees<a class="anchor" id="tuition-fees"></a>
 There are no application fees.
 The tuition fee for the academic year of the PMSE is set to 5 180 euros:
 
@@ -55,8 +56,8 @@ Some outstanding students from developing countries and having financial difficu
 
 These fees do not cover photocopies, books, accommodation, health insurance (for students more than 28), meals, or general expenses. However,  reservation, library access, health insurance (for students less than 28) and internet access will be provided.
 
-<a id="deadlines"></a>
-#Deadlines
+
+#Deadlines<a class="anchor" id="deadlines"></a>
 You can apply for Pantheon Sorbonne Master in Economics from the 15th of October to the 15th of May. Up to 60 students can be accepted in this programme (including up to 30 from the Fudan Program).
  
 All application are examined and answered on an on-going basis. Hence the earlier you apply, the more likely you are accepted.
@@ -68,8 +69,8 @@ Early application also guarantees your access to one of the 20 student rooms tha
  
 Also note that the reservation fee has to be paid before the 15th of May and the remaining fees have to be paid by the 15th of July.
 
-<a id="selection-procedure"></a>
-#Selection Procedure
+
+#Selection<a class="anchor" id="selection"></a>
 We examine applications on an on-going basis. When you send all your application documents, we will give you an answer within one month. Hence the earlier you apply, the more likely you are accepted.
 
 If you don't have a BA in economics but you have studied maths and economics, you can still apply. The admission committee will decide if you have enough economic background for PSME programme. If you come from a good university and you are in the first quarter of your class, you have good chance to be admitted.
