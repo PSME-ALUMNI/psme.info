@@ -12,6 +12,4 @@ image3: "thesis-defense"
 
 - this is a bullet point
 
-<a href="http://www.facebook.com">facebook.com</a>
-
 This is just a test
