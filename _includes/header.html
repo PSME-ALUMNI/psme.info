@@ -31,7 +31,7 @@
 		{% endif %}
 		{% if page.date %}
 			<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-			<meta content="{{ site.url }}/about/" property="article:author">
+			<meta content="{{ site.url }}" property="article:author">
 		{% endif %}
 		{% if page.image %}
 			<meta content="{{ site.url }}/assets/img/posts/{{ page.image }}" property="og:image">
@@ -49,11 +49,11 @@
 			{% endfor %}
 		{% endif %}
 
-        <link rel="stylesheet" href="{{ site.baseurl }}css/bootstrap.min.css">
-        <link rel="stylesheet" href="{{ site.baseurl }}css/bootstrap-responsive.min.css">
-        <link rel="stylesheet" href="{{ site.baseurl }}css/main.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
 
-        <script src="{{ site.baseurl }}js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="{{ site.baseurl }}/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -68,7 +68,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </a>
-                    <a class="brand" href="{{ site.baseurl }}">PSME</a>
+                    <a class="brand" href="{{ site.baseurl }}/">PSME</a>
                     <div class="nav-collapse collapse">
                         <ul class="nav">
                             {% for page in site.pages %}
