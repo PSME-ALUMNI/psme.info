@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Study Program
+title: Program
 image: "thesis-defense"
-text-position-top: "220px"
+text-position-top: "0px"
 text-position-left: "0px"
 text-color: "white"
 menu:
@@ -26,7 +26,7 @@ Given that the student has shown a sufficient improvement in French as a foreign
 
 All Economics Lectures are held in small classes of no more than 60 students. Tutorials are organised in smaller classes (no more then 20 students) for all courses within the first semester, to help students understand the courses and do exercises. French courses are given in classes of about 20 students.
 
-All students prepare an extended essay (M1 dissertation) during the second semester. The dissertation has to be prepared with one of the PSME Professors as a supervisor.
+ All students prepare an extended essay (M1 dissertation) during the second semester. The dissertation has to be prepared with one of the PSME Professors as a supervisor.
 
 #Time Table<a class="anchor" id="time-table"></a>
 

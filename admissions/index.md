@@ -1,4 +1,4 @@
----
+﻿---
 layout: page
 title: Admissions
 image: "graduation"
@@ -64,7 +64,7 @@ All application are examined and answered on an on-going basis. Hence the earlie
  
 WARNING:  It is highly recommended that candidates submit their application as early as possible. Given the success of the program we will probably open a waiting list well before the 15th May deadline.
  
-Note that early application is a prerequisite to be able to apply to scholarship programs, notably those offered by the French foreign affairs services.
+Note that early application is a prerequisite to be able to apply to scholarship programs, notably those offered by the French foreign affairs services. 
 Early application also guarantees your access to one of the 20 student rooms that we pre-book for PSME students Cite Internationale Universitaire de Paris.
  
 Also note that the reservation fee has to be paid before the 15th of May and the remaining fees have to be paid by the 15th of July.
