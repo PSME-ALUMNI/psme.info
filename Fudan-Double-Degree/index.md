@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fudan Double Degre
+title: Fudan Dual Degree
 image: "shanghai-skyline"
 text-position-top: "0px"
 text-position-left: "0px"

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: page
 title: Admissions
 image: "graduation"
@@ -11,7 +11,6 @@ menu:
 - { title: "Deadlines", link: "deadlines"}
 - { title: "Selection", link: "selection"}
 ---
-
 
 #How To Apply<a class="anchor" id="how-to-apply"></a>
 To apply for the Panthéon-Sorbonne Master's degree in Economics, students must provide the following:
