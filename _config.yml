@@ -1,4 +1,4 @@
-name: "Pantheon-Sorbonne Master in Economics"
+name: "PSME - Pantheon-Sorbonne Master in Economics"
 description: ""
 
 paginate: 10
@@ -7,4 +7,4 @@ markdown: rdiscount
 permalink: pretty
 pygments: true
 
-baseurl: /
+baseurl:     /psme.info/
