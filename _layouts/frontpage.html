@@ -88,12 +88,14 @@
                 ['France', 600],
                 ['RU', 700]
               ]);
-            
+              var options = {legend: 'none',
+                     width: '100%',
+              };
+    
               var geochart = new google.visualization.GeoChart(
                   document.getElementById('visualization'));
-              geochart.draw(data, {width: '100%'});
+              geochart.draw(data, options);
             }
-            
 
             google.setOnLoadCallback(drawVisualization);
           </script>
