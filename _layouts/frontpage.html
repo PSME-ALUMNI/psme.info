@@ -80,17 +80,17 @@
 
             function drawVisualization() {
               var data = google.visualization.arrayToDataTable([
-                ['Country'],
-                ['Germany'],
-                ['United States'],
-                ['Brazil'],
-                ['Canada'],
-                ['France'],
-                ['Russia']
+                ['Country', '# Students'],
+                ['Germany', 10],
+                ['United States', 25],
+                ['Brazil', 5],
+                ['Canada', 3],
+                ['France', 7],
+                ['Russia', 14]
               ]);
               var options = {legend: 'none',
                      width: '100%',
-                     colorAxis: {colors: ['#18bc9c']},
+                     colorAxis: {colors: ['#FFF', '#18bc9c']},
               };
     
               var geochart = new google.visualization.GeoChart(
