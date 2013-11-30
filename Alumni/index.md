@@ -7,9 +7,7 @@ text-position-left: "0px"
 text-color: "white"
 menu:
 - { title: "Who we are", link: "who-we-are"}
-- { title: "Tuition Fees", link: "tuition-fees"}
-- { title: "Deadlines", link: "deadlines"}
-- { title: "Selection", link: "selection"}
+- { title: "Contact", link: "contact"}
 ---
 
 
