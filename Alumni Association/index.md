@@ -5,6 +5,11 @@ image: "graduation"
 text-position-top: "0px"
 text-position-left: "0px"
 text-color: "white"
+menu:
+- { title: "How to Apply", link: "how-to-apply"}
+- { title: "Tuition Fees", link: "tuition-fees"}
+- { title: "Deadlines", link: "deadlines"}
+- { title: "Selection", link: "selection"}
 ---
 
 #Who we are
