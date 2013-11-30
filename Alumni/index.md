@@ -21,5 +21,6 @@ New students are introduced and integrated to the PSME alumni family thought eve
 We, the alumni of the PSME programme, work and research all around the world. The main areas are economic positions in governments, corporate and central banks, universities, consultancies, development agencies, insurance companies as well as in private enterprises in the industry. Thanks to the double degree track in Global Economics with Fudan University in Shanghai, around 35 percent of our alumni hale from and live and work in all corners of China.
 For some bright examples of what we do and what career PSME alumni choose with their degree, check out our Alumni portraits section.
 
-You can contact us at psmeaa@univ-paris1.fr
+You can contact us at <a href="mailto:psmeaa@univ-paris1.fr">psmeaa@univ-paris1.fr</a>.
+
 We look forward to hearing from you!
