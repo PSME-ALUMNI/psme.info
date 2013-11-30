@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Alumni Association
-image: ""
+image: "graduation"
 text-position-top: "0px"
 text-position-left: "0px"
 text-color: "white"
 menu:
+- { title: "Who we are", link: "who-we-are"}
 - { title: "Who we are", link: "who-we-are"}
 ---
 
