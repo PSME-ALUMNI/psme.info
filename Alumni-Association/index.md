@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Alumni Association
-image: "graduation"
+image: ""
 text-position-top: "0px"
 text-position-left: "0px"
 text-color: "white"
