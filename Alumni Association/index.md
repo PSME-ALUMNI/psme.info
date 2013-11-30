@@ -6,13 +6,10 @@ text-position-top: "0px"
 text-position-left: "0px"
 text-color: "white"
 menu:
-- { title: "How to Apply", link: "how-to-apply"}
-- { title: "Tuition Fees", link: "tuition-fees"}
-- { title: "Deadlines", link: "deadlines"}
-- { title: "Selection", link: "selection"}
+- { title: "Who we are", link: "who-we-are"}
 ---
 
-#Who we are
+#Who we are<a class="anchor" id="who-we-are"></a>
 
 The Panthéon Sorbonne Master in Economics Alumni Association (PSMEAA) was founded in September 2013 with the aim to stimulate and support the interaction and exchange of former and current master students, professors, staff, friends and supporters of the PSME programme at Panthéon Sorbonne University in Paris.
 
