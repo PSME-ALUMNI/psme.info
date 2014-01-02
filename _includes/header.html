@@ -9,6 +9,7 @@
         <title>{{ site.name }}</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
+        <link rel='shortcut icon' type='image/x-icon' href='/static/img/favicon.ico' />
         
         <meta content="{{ site.title }}" property="og:site_name">
 		{% if page.title %}
@@ -49,11 +50,11 @@
 			{% endfor %}
 		{% endif %}
 
-        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap.min.css">
-        <link rel="stylesheet" href="{{ site.url }}/css/bootstrap-responsive.min.css">
-        <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+        <link rel="stylesheet" href="{{ site.url }}/static/css/bootstrap.min.css">
+        <link rel="stylesheet" href="{{ site.url }}/static/css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="{{ site.url }}/static/css/main.css">
 
-        <script src="{{ site.baseurl }}js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="{{ site.url }}/static/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
