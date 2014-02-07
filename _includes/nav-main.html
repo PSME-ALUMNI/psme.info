@@ -1,0 +1,34 @@
+<header class="navbar navbar-inverse navbar-fixed-top bs-docs-nav" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a href="{{ page.base_url }}" class="navbar-brand">PSME</a>
+    </div>
+    <nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">
+        <li{% if page.slug == "program" %} class="active"{% endif %}>
+          <a href="{{ page.base_url }}program">Program</a>
+        </li>
+        <li{% if page.slug == "admissions" %} class="active"{% endif %}>
+          <a href="{{ page.base_url }}admissions">Admissions</a>
+        </li>
+        <li{% if page.slug == "student-life" %} class="active"{% endif %}>
+          <a href="{{ page.base_url }}student-life">Student Life in Paris</a>
+        </li>
+        <li{% if page.slug == "fudan" %} class="active"{% endif %}>
+          <a href="{{ page.base_url }}fudan">Fudan Double Degree</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li{% if page.slug == "alumni" %} class="active"{% endif %}>
+          <a href="{{ page.base_url }}alumni">Alumni Association</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>

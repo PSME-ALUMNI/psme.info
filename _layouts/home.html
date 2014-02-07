@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Meta, title, CSS, favicons, etc. -->
+    {% include header.html %}
+  </head>
+  
+  <body class="bs-docs-home"> <!-- style="background: url(/img/{{ page.image }}.jpg); width:auto; min-height: 300px; background-position:center top; background-size: cover;"> -->
+
+    <a class="sr-only" href="#content">Skip to main content</a>
+
+    <!-- Docs master nav -->
+    {% include nav-main.html %}
+
+    <div style="width: 100%; overflow: hidden;">
+    <figure class="vignette overlay">
+      <img src="img/{{ page.image }}.jpg" class="psme-bg">
+    </figure>
+    </div>
+    <!-- Page content of course! -->
+
+    {{ content }}
+
+    <footer class="container" role="contentinfo">
+
+      {% include social-buttons.html %}
+  
+    </footer>
+
+    <!-- JS and analytics only. -->
+    {% include footer.html %}
+
+  </body>
+</html>
