@@ -1330,4 +1330,6 @@ figure.mask img{
 .overview
 {
   background-color: #f7f5fa;
+  padding: 10px;
+  margin: 20px 0 0 0;
 }
