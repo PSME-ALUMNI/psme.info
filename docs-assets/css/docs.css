@@ -1356,3 +1356,10 @@ blockquote {
   margin-right: 10px;
   font-style: italic;
 }
+
+.profile {
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  border-radius: 5px;
+} 
